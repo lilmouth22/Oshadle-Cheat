@@ -1,0 +1,12 @@
+{
+    "env": {
+        "ANTHROPIC_BASE_URL": "http://192.168.1.21:20128",
+        "ANTHROPIC_AUTH_TOKEN": "sk-20828ea0d0372132-623a3b-d49e93ce",
+        "ANTHROPIC_MODEL": "auto",
+        "CLAUDE_CODE_ENABLE_GATEWAY_MODEL_DISCOVERY": "1"
+    },
+    "effortLevel": "medium",
+    "permissions": {
+        "blockReadsOutsideWorkingDirectories": false
+    }
+}
